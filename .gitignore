@@ -1,0 +1,15 @@
+# Python bytecode & cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Local SQLite Database (contains your local test data & admin password)
+db.sqlite3
+
+# Environment variables / secrets
+.env
+
+# Lightning / IDE settings (if generated)
+.lightning/
+.vscode/
+.idea/
