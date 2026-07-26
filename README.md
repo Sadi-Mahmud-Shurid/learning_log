@@ -21,7 +21,7 @@
 
 ## Project Roadmap & Implementation Log
 
-### Phase 1: Environment & Project Setup (Up until initial commit)
+### Phase 1: Environment & Project Setup (First commit)
 
 > - Started Django project structure:
   ```bash
@@ -41,6 +41,13 @@
 > - Registered `Topic` with the Django Admin site in `admin.py`.
 > - Created a superuser account and populated initial test topics via Django Admin.
 > - Initialized project repository on GitHub.
+
+### Phase 2: Defining URLs, Making Views and Templates (Homepage) (Second Commit):
+
+> - Brwoser requests a URL.
+> - The request is routed through `ll_project/urls.py` to `learning_logs/urls.py`, matching the requested path to a specific view function.
+> - The index function in `learning_logs/views.py` returns render().
+> - The rendered HTML template (located in `learning_logs/templates/learning_logs/index.html`) is returned as an HTTP response to the browser and added `base.html` as a parent template.
 
 ***To be continued...***
 
