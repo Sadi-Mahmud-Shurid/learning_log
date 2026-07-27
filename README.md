@@ -49,6 +49,8 @@
 > - The index function in `learning_logs/views.py` returns render().
 > - The rendered HTML template (located in `learning_logs/templates/learning_logs/index.html`) is returned as an HTTP response to the browser and added `base.html` as a parent template.
 
+### Phase 3: Topics and Entries pages added (Third Commit)
+
 ***To be continued...***
 
 ## How to Run Locally / In Development
