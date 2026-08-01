@@ -51,6 +51,12 @@
 
 ### Phase 3: Topics and Entries pages added (Third Commit)
 
+### Phase 4: Adding Topics and Entries (Fourth Commit):
+
+> - Added forms for - adding new topics, adding new entries under a certain topic
+> - Added Editing entries functionality
+> - Populated new files - `forms.py`, `new_topic.html`, `new_entry.html` and `edit_entry.html`
+
 ***To be continued...***
 
 ## How to Run Locally / In Development
