@@ -57,7 +57,7 @@
 > - Added Editing entries functionality
 > - Populated new files - `forms.py`, `new_topic.html`, `new_entry.html` and `edit_entry.html`
 
-***To be continued...***
+### Phase 5: Added new user creation and login
 
 ## How to Run Locally / In Development
 
